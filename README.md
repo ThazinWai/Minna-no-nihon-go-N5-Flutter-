@@ -1,4 +1,4 @@
-Minna no nihon go Japanese App 
+Minna no nihon go Japanese App.<br>
 This project is a starting point for a Flutter application.
 
 
