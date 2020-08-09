@@ -1,4 +1,5 @@
 Minna no nihon go Japanese App.<br>
+Using Flutter components widgets.<br>
 This project is a starting point for a Flutter application.
 
 
